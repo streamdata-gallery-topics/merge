@@ -2131,26 +2131,4 @@
             "method": "GET",
             "header": [
               {
-                "key": "Accept",
-                "value": "*/*",
-                "disabled": false
-              }
-            ],
-            "body": {
-              "mode": "raw"
-            },
-            "description": "Get projects merge requests noteable notes."
-          },
-          "response": [
-            {
-              "status": "OK",
-              "code": 200,
-              "name": "Response_200",
-              "id": "869694c5-0d7c-48c7-85a6-c985c98d0f5f"
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
+                "key": "Acc

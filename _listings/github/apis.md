@@ -8,8 +8,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "64"
 tags: Merge
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/merge/master/_listings/github/apis.md
 specificationVersion: "0.14"
 apis:
@@ -29,6 +29,20 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/merge/master/_listings/github/reposownerrepopullsnumbermerge-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/merge/master/_listings/github/reposownerrepopullsnumbermerge-get-openapi.md
+- name: GitHub - Put Repos Owner Repo Pulls Number Merge
+  x-api-slug: reposownerrepopullsnumbermerge-put
+  description: Merge a pull request (Merge Button's)
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/github-logo.png
+  humanURL: https://github.com
+  baseURL: https://api.github.com//
+  tags: Social, Coding, Programming, Social, Jobs, Hacker Storytelling, Code, My API
+    Stack, Management, Imports, Issues, Issue Management, Change Log Example, Stack
+    Network, Stack, SaaS, Technology, Developers, API Provider, API Service Provider,
+    Profiles, General Data, Relative Data, Pedestal, Historical Data API, Relative
+    StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/merge/master/_listings/github/reposownerrepopullsnumbermerge-put-openapi.md
 x-common:
 - type: x--net-library
   url: https://github.com/octokit/octokit.net
