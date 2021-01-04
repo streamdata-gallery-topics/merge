@@ -126,21 +126,6 @@
 					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/merge/master/_listings/gig--crowd/openapi.md"
 				}
 			]
-		},
-		{
-			"name": "Dezrez",
-			"x-api-slug": "dezrez",
-			"description": "Cloud based estate agent software , sales & letting agent software, estate agent website design and property management software - Dezrez  Services",
-			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg",
-			"humanURL": "https://www.dezrez.com",
-			"baseURL": "https://api.dezrez.com//",
-			"tags": "Merge",
-			"properties": [
-				{
-					"type": "x-openapi-spec",
-					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/merge/master/_listings/dezrez/openapi.md"
-				}
-			]
 		}
 	],
 	"tags": "Merge",
@@ -176,10 +161,6 @@
 		{
 			"name": "GIG & CROWD",
 			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/merge/master/_listings/gig--crowd/apis.yaml"
-		},
-		{
-			"name": "Dezrez",
-			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/merge/master/_listings/dezrez/apis.yaml"
 		}
 	]
 }
